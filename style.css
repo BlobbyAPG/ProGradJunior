@@ -1,0 +1,23 @@
+body
+{
+    background-color: peachpuff;
+}
+h1
+{
+    font-family: monospace;
+}
+h2
+{
+    color: peru;
+    text-decoration: underline;
+}
+img
+{
+    height: 300px;
+}
+button
+{
+    background-color: rosybrown;
+    font-size: large;
+    color: seashell;
+}
